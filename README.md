@@ -1,4 +1,5 @@
 ***🎁 Amigo Secreto - Aplicación Web***
+
 Este es un proyecto simple para realizar un sorteo de Amigo Secreto de manera automática.
 
 ***📌 Uso***
@@ -29,14 +30,13 @@ Este es un proyecto simple para realizar un sorteo de Amigo Secreto de manera au
 ***🔧 Instalación***
 
 1.	Clonar el repositorio:
-2.	
-git clone https://github.com/Guillepppv/Desaf-o-Amigo-Secreto.git
 
-Abrir el archivo index.html en un navegador.
+  	git clone https://github.com/Guillepppv/Desaf-o-Amigo-Secreto.git
+  	
+2. Abrir el archivo index.html en un navegador.
 
-4.	Usar la aplicación para ingresar nombres y realizar el sorteo.
+**Usar la aplicación para ingresar nombres y realizar el sorteo.**
 
-5.	
 ***📜 Licencia***
 
 Este proyecto está bajo la licencia MIT.
